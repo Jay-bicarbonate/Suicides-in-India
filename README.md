@@ -1,7 +1,7 @@
 # Suicides-in-India
 This data set contains yearly suicide detail of all the states/u.t of India by various parameters from 2001 to 2012.
 
-##Content
+## Content
 Time Period: 2001 - 2012
 Granularity: Yearly
 Location: States and U.T's of India
@@ -14,5 +14,5 @@ c) By means adopted
 d) Professional profile
 e) Social status
 
-##Acknowledgements
+## Acknowledgements
 National Crime Records Bureau (NCRB), Govt of India has shared this dataset under Govt. Open Data License - India.
